@@ -29,6 +29,7 @@ hi Cursor		guibg=#ffffff ctermbg=15 guifg=#000000 ctermfg=0
 hi CursorLine	guibg=#000000 ctermbg=0
 "hi CursorLine	guibg=#3e4446 ctermbg=238
 hi CursorColumn	guibg=#464646 ctermbg=238
+hi ColorColumn	guibg=#202020 ctermbg=234
 
 "hi DiffText     guibg=#4e9a06 ctermbg=64 guifg=#FFFFFF ctermfg=15 gui=bold
 "hi DiffChange   guibg=#4e9a06 ctermbg=64 guifg=#FFFFFF ctermfg=15 gui=bold
@@ -68,12 +69,12 @@ hi SpecialKey	guifg=#8ae234 ctermfg=112
 
 hi Title		guifg=#ef5939 ctermfg=203
 hi WarningMsg	guifg=#ef5939 ctermfg=203
-hi Number		guifg=#fcaf3e ctermfg=215
+hi Number		guifg=#fcaf3e ctermfg=214
 
 hi MatchParen	guibg=#ad7fa8 ctermbg=139 guifg=#FFFFFF ctermfg=15
 hi Comment		guifg=#8a8a8a ctermfg=245
 hi Constant		guifg=#ef5939 ctermfg=203 gui=none
-hi String		guifg=#fce94f ctermfg=221
+hi String		guifg=#fce94f ctermfg=220
 hi Identifier	guifg=#729fcf ctermfg=74
 hi Statement	guifg=#ffffff ctermfg=15 gui=bold cterm=bold
 hi PreProc		guifg=#ffffff ctermfg=15 gui=bold cterm=bold
